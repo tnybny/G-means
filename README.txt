@@ -1,4 +1,4 @@
-This program implements G-means clustering
+This program implements G-means clustering [1]
 
 Set working directory to the folder with the data and source the R file to see plots of results from G-means. Plots are created every time there is a split, two views of x1 versus x2 and x2 versus x3.
 
@@ -9,3 +9,5 @@ Libraries required for this code are:
 2. ellipse
 
 One plot of x1 versus x2 after G-means completion is also attached.
+
+[1] Hamerly, Greg, and Charles Elkan. "Learning the k in k-means." Advances in neural information processing systems. 2004.
